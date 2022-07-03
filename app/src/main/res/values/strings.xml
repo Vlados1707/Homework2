@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="main_menu" />
+    <string name="menu_achievements" />
+    <string name="menu_catalog" />
+    <string name="menu_settings" />
+    <string name="menu_friends" />
+    <string name="hi_i_m_main_fragment" />
+    <string name="hi_i_m_achievements_fragment" />
+    <string name="hi_i_m_catalog_fragment" />
+    <string name="hi_i_m_favorites_fragment" />
+    <string name="hi_i_m_friends_fragment">hi_i_m_setting_fragment</string>
+    <string name="hi_i_m_setting_fragment">hi_i_m_setting_fragment</string>
+    <string name="hi_i_m_achievements_fragmen">Hi I\'m achievements fragment</string>
+    <string name="hi_i_m_catalog_fragmen">Hi I\'m catalog fragment</string>
+    <string name="hi_i_m_favorites_fragmen">Hi I\'m favorites fragment</string>
+    <string name="hi_i_m_friends_fragmen">Hi I\'m friends fragment</string>
+    <string name="hi_i_m_main_fragmen">Hi I\'m main fragment</string>
+    <string name="hi_i_m_setting_fragmen">Hi I\'m settings fragment</string>
+</resources>
